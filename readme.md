@@ -3,7 +3,7 @@
 ### ... or the simplest blackjack game ever
 ---
 
-So here's the deal _(pun intended)_. This is one of my favourite classes to teach on the Ironhack Madrid Data Analytics course.
+So here's the deal _(pun intended)_. This is one of my favourite classes to teach on the Data Analytics course.
 
 The Idea is to show how to deal with a few classes, their attributes, methods (including _\_\_dunder\_\__ methods.) and some inheritance.
 
